@@ -19,6 +19,7 @@ namespace ConsoleApp3
 					max = arrInt[i];
 				}
 			}
+
 			Console.WriteLine("max là " + max);
 		}
 	}
